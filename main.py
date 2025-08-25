@@ -5,7 +5,8 @@ app = FastAPI()
 
 # Replace with your GitHub Pages URL
 origins = [
-    "https://username.github.io",
+    #"https://username.github.io",
+    "https://pragatipatil97.github.io/WebAR_Cube/"
 ]
 
 app.add_middleware(
